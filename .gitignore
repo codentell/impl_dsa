@@ -1,0 +1,51 @@
+# === Cargo / Rust ===
+target
+**/*.rs.bk
+Cargo.lock   
+Cargo.lock   
+
+# === Backup & Temp Files ===
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# === IDEs and Editors ===
+# VSCode
+.vscode/
+# JetBrains (CLion, IntelliJ)
+.idea/
+*.iml
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# === MacOS/Linux Specific ===
+*.DS_Store
+ehthumbs.db
+Icon?
+._*
+
+# === Windows Specific ===
+*.exe
+*.dll
+*.obj
+*.pdb
+*.lib
+*.pch
+*.ipch
+*.class
+
+# === Byproducts of bindgen or FFI ===
+*.h
+*.c
+
+# === Coverage Tools / Testing ===
+/coverage/
+*.profraw
+*.gcno
+*.gcda
+*.gcov

@@ -1,2 +1,2 @@
 # impl_dsa
-Implement Datastructure and Algorithms
+Implement Data Structure and Algorithms
