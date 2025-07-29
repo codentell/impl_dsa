@@ -1,16 +1,13 @@
 # Implement Data Structure and Algorithms
 
-## Linear Search
+[] Arrays
+[] Linked List
+[] Matrix
+[] Queues
+[] Search
+[] Sort
+[] Tokenizer
 
-## Installation 
-```bash
-pip install maturin 
-```
-
-## Run
-```bash
-maturin develop
-```
 
 
 
