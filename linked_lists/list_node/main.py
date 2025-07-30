@@ -1,4 +1,4 @@
 class ListNode:
-    def __init__(self, value=-1):
+    def __init__(self, value=-1, nxt=None):
         self.value = value
-        self.next = None
+        self.next = nxt
